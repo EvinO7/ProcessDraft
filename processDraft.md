@@ -43,6 +43,7 @@ Projects similar to game jams are the best way to show off your skills in develo
 
 Job fairs are the best way to meet potential employers and get yourself out there in the job market because of 2 reasons, 1 when talking to someone in person you avoid the possible middle man in the hiring process online that sends your resume and info through an automated system, and 2 you are able to make personal connections to people who work there and see what the work culture may be like if hired into a position offered. UW often has job fairs on campus, begin by researching the companies that will be present at the job fair. Bring multiple copies of your resume so you can hand it to each possible employer you wish, and dressing business casual is good.
 
-![Job fair image](https://canva.link/8wl8gh0fbrjmras)
+<img width="1728" height="2304" alt="Print copies of your resume" src="https://github.com/user-attachments/assets/8105cd5b-e44c-4de8-b7bf-da41b7c58e87" />
+
 
 ## References
