@@ -47,3 +47,6 @@ Job fairs are the best way to meet potential employers and get yourself out ther
 
 
 ## References
+<small> [1] 	Unity Tutorials, "Basics of Game Jams," Unity, [Online]. Available: https://learn.unity.com/course/get-started-with-game-jams/tutorial/explore-the-basics-of-game-jams.
+[2] 	GameDev Team, "Game Jams: tips for begginers," GameDev.tv, [Online]. Available: https://gamedev.tv/articles/game-jams-tips-for-beginners-from-a-beginner.
+[3] 	Codecademy Team, "How To Make Your Game Development Portfolio Catch A Hiring Manager’s Eye," 1st April 2022. [Online]. Available: https://www.codecademy.com/resources/blog/how-to-make-your-game-development-portfolio-catch-a-hiring-managers-eye?utm_source=chatgpt.com.
