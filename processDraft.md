@@ -1,4 +1,4 @@
-# Building a Job Ready Portfolio for Game Development
+# Building a Job-Ready Portfolio for Game Development
 
 By Evin Onener
 
@@ -24,23 +24,23 @@ It can be challenging to get into the gaming industry, and sometimes, having an 
 
 ### Taking a game development class
 
-During your time in school taking the right classes to prepare you for what you want to do is important. Of course their are the required classes for graduating, but what can really help is taking electives that help you specialize in the field you want to be in. <br>
-If your school offers it as an elective taking a game development class can help you get started, if not their are other options. Unity offers a free course on learning their game engine, and Unreal engine also has a begginer course choosing one of these options will help begin your process in stepping into the field. <br>
-Here are links to both Unity and Unreal engines free courses: https://unity.com/learn/get-started | https://dev.epicgames.com/community/unreal-engine/getting-started
+During your time in school, taking the right classes to prepare you for what you want to do is important. Of course their are the required classes for graduating, but what can really help is taking electives that help you specialize in the field you want to be in. <br>
+If your school offers it as an elective, taking a game development class can help you get started; if not, there are other options. Unity offers a free course on learning their game engine, and Unreal Engine also has a beginner course. Choosing one of these options will help begin your process of stepping into the field. <br>
+Here are links to both Unity and Unreal engines' free courses: https://unity.com/learn/get-started | https://dev.epicgames.com/community/unreal-engine/getting-started
 
 ### Participating in game jams
 
-Game jams are an amazing way to practice making games and getting projects under your portfolio. They also allow you to show employers your range of skills and that you can work with a team on a creative project.<br> To get started with game jams find one that fits your schedule so you can work on it without overexerting yourself,[^2] to find a game jam there are plenty of resources available like itch.io game jam calender all you have to do is search. <br>
+Game jams are an amazing way to practice making games and getting projects under your portfolio. They also allow you to show employers your range of skills and that you can work with a team on a creative project.<br> To get started with game jams find one that fits your schedule so you can work on it without overexerting yourself. [^2] To find a game jam, there are plenty of resources available, like itch.io game jam calendar. All you have to do is search. <br>
 Itch.io hosts lots of game jams that are all free to join here: https://itch.io/jams
 
 ### Working on personal projects
 
-Projects similar to game jams are the best way to show off your skills in development and creativity.[^1] Personal projects allow you to create something that interests you while preparing for the job market, when looking at potential applicants employers would rather see that you are capable of doing the job through your portfolio than look at your list of skills on a resume.[^3] <br> Getting started on a project can be difficult so starting off with a concept or something small, clear, and achievable in a short amount of time is a good start because it will more likely achieve completion. Once you've set a end goal and have an idea, you can take as much time as you please because there isn't a deadline for a personal project. <br>
+Projects similar to game jams are the best way to show off your skills in development and creativity.[^1] Personal projects allow you to create something that interests you while preparing for the job market. When looking at potential applicants, employers would rather see that you are capable of doing the job through your portfolio than look at your list of skills on a resume.[^3] <br> Getting started on a project can be difficult, so starting off with a concept or something small, clear, and achievable in a short amount of time is a good start because it will more likely achieve completion. Once you've set an end goal and have an idea, you can take as much time as you please because there isn't a deadline for a personal project. <br>
 UW also has a club available for people interested in game development: https://www.uwgame.dev/
 
 ### Going to a job fair
 
-Job fairs are the best way to meet potential employers and get yourself out there in the job market because of 2 reasons, 1 when talking to someone in person you avoid the possible middle man in the hiring process online that sends your resume and info through an automated system, and 2 you are able to make personal connections to people who work there and see what the work culture may be like if hired into a position offered. <br> UW often has job fairs on campus, begin by researching the companies that will be present at the job fair. Bring multiple copies of your resume so you can hand it to each possible employer you wish, and dressing business casual is good.
+Job fairs are the best way to meet potential employers and get yourself out there in the job market because when talking to someone in person you avoid the possible middleman in the hiring process online, which sends your resume and info through an automated system. You can make personal connections with people who work there and see what the work culture may be like if you are hired into the offered position. <br> UW often has job fairs on campus, begin by researching the companies that will be present at the job fair. Bring multiple copies of your resume so you can hand it to each possible employer you wish, and dressing business casual is good.
 
 <img width="400" height="500" alt="Print copies of your resume" src="https://github.com/user-attachments/assets/8105cd5b-e44c-4de8-b7bf-da41b7c58e87" />
 
@@ -51,7 +51,7 @@ Job fairs are the best way to meet potential employers and get yourself out ther
 [^1]: Unity Tutorials, "Basics of Game Jams," Unity, [Online]. Available: https://learn.unity.com/course/get-started-with-game-jams/tutorial/explore-the-basics-of-game-jams.
 <br> 
 
-[^2]: GameDev Team, "Game Jams: tips for begginers," GameDev.tv, [Online]. Available: https://gamedev.tv/articles/game-jams-tips-for-beginners-from-a-beginner.
+[^2]: GameDev Team, "Game Jams: tips for beginners," GameDev.tv, [Online]. Available: https://gamedev.tv/articles/game-jams-tips-for-beginners-from-a-beginner.
 <br> 
 
 [^3]: Codecademy Team, "How To Make Your Game Development Portfolio Catch A Hiring Manager’s Eye," 1st April 2022. [Online]. Available: https://www.codecademy.com/resources/blog/how-to-make-your-game-development-portfolio-catch-a-hiring-managers-eye?utm_source=chatgpt.com.
