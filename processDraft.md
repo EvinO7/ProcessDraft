@@ -6,8 +6,6 @@ By Evin Onener
 
 - [Purpose](#purpose)
 
-- [Preparing for the job market](#preparing-for-the-job-market)
-
   - [Taking a game development class](#taking-a-game-development-class) 
 
   - [Participating in game jams](#participating-in-game-jams)
@@ -37,7 +35,7 @@ Itch.io hosts lots of game jams that are all free to join here: https://itch.io/
 
 ### Working on personal projects
 
-Projects similar to game jams are the best way to show off your skills in development and creativity. Personal projects allow you to create something that interests you while preparing for the job market, when looking at potential applicants employers would rather see that you are capable of doing the job through your portfolio than look at your list of skills on a resume.[^3] <br> Getting started on a project can be difficult so starting off with a concept or something small, clear, and achievable in a short amount of time is a good start because it will more likely achieve completion. Once you've set a end goal and have an idea, you can take as much time as you please because there isn't a deadline for a personal project. <br>
+Projects similar to game jams are the best way to show off your skills in development and creativity.[^1] Personal projects allow you to create something that interests you while preparing for the job market, when looking at potential applicants employers would rather see that you are capable of doing the job through your portfolio than look at your list of skills on a resume.[^3] <br> Getting started on a project can be difficult so starting off with a concept or something small, clear, and achievable in a short amount of time is a good start because it will more likely achieve completion. Once you've set a end goal and have an idea, you can take as much time as you please because there isn't a deadline for a personal project. <br>
 UW also has a club available for people interested in game development: https://www.uwgame.dev/
 
 ### Going to a job fair
@@ -48,10 +46,12 @@ Job fairs are the best way to meet potential employers and get yourself out ther
 
 
 ## References
- [1] Unity Tutorials, "Basics of Game Jams," Unity, [Online]. Available: https://learn.unity.com/course/get-started-with-game-jams/tutorial/explore-the-basics-of-game-jams.
+ 
+ 
+[^1]: Unity Tutorials, "Basics of Game Jams," Unity, [Online]. Available: https://learn.unity.com/course/get-started-with-game-jams/tutorial/explore-the-basics-of-game-jams.
 <br> 
 
-[^2]: [2] GameDev Team, "Game Jams: tips for begginers," GameDev.tv, [Online]. Available: https://gamedev.tv/articles/game-jams-tips-for-beginners-from-a-beginner.
+[^2]: GameDev Team, "Game Jams: tips for begginers," GameDev.tv, [Online]. Available: https://gamedev.tv/articles/game-jams-tips-for-beginners-from-a-beginner.
 <br> 
 
-[^3]: [3] Codecademy Team, "How To Make Your Game Development Portfolio Catch A Hiring Manager’s Eye," 1st April 2022. [Online]. Available: https://www.codecademy.com/resources/blog/how-to-make-your-game-development-portfolio-catch-a-hiring-managers-eye?utm_source=chatgpt.com.
+[^3]: Codecademy Team, "How To Make Your Game Development Portfolio Catch A Hiring Manager’s Eye," 1st April 2022. [Online]. Available: https://www.codecademy.com/resources/blog/how-to-make-your-game-development-portfolio-catch-a-hiring-managers-eye?utm_source=chatgpt.com.
